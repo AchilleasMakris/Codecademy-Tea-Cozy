@@ -1,5 +1,6 @@
-Tea Cozy Shop Project
-Introduction
+**`Tea Cozy Shop Project`**
+
+## Introduction
 
 In this project, you will create a fictional tea shop website. 
 REQUIREMENT
@@ -8,10 +9,10 @@ We will provide a design spec and image assets to help you along the way. A desi
 
 This project assumes that you will be able to reproduce the basic HTML and CSS with little guidance.
 
-Design Spec:
+## Design Spec:
 https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg
 
-Technologies
+## Technologies
 
 This project is created with:
 
@@ -21,7 +22,7 @@ This project is created with:
     Command Line
     Visual Studio Code
 
-Sources
+## Sources
 
 With the resources available and studies from:
 
@@ -32,15 +33,15 @@ With the resources available and studies from:
     Stack overflow
     Google research
 
-Inspiration
+## Inspiration
 
     Codecademy Project : https://www.codecademy.com/paths/web-development/tracks/getting-more-advanced-with-design/modules/layout-with-flexbox/projects/tea-cozy
 
-Status
+## Status
 
 Project is completed as required.
 
-Author/Contact
+## Author/Contact
 
     M. Achilleas - Initial work
     Website Preview: https://codecademy-tea-cozy.vercel.app/
